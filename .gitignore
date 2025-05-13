@@ -9,3 +9,5 @@ Fine-tuning/models
 UniEval/__pycache__
 
 datasets/FoCus/*
+
+evaluation *.ipynb
