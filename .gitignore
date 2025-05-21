@@ -1,6 +1,5 @@
 /Qwen2-5B-*
 
-
 GoogleNews-vectors-negative300.bin
 
 Fine-tuning/output
@@ -11,3 +10,8 @@ UniEval/__pycache__
 datasets/FoCus/*
 
 evaluation *.ipynb
+
+.env
+
+/LLMs
+/Tokenizers
