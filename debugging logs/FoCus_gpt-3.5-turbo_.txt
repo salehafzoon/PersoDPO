@@ -1,0 +1,31 @@
+Failed to parse JSON for response at index 152:
+{
+  "response": "Ooty, officially known as Udagamandalam, is a beautiful place with a lot to offer. You can visit the Nilgiri biosphere reserve to explore the protected forested areas and water bodies. Don't miss the stunning Government Rose Garden with over 20,000 varieties of roses. The Nilgiri Mountain Railway, operated by steam locomotives, is a must-see for steam railway enthusiasts. Enjoy boating at Ooty Lake, covering 65 acres. Unfortunately, there are
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+Failed to parse JSON for response at index 303:
+{
+  "response": "It's fascinating to learn about Wardang Island and its rich history, from being a natural breakwater to its current lease to the Narungga people. The nomenclature of the island, with names like Wardang meaning 'crow' and Wauraltee meaning 'bandicoot island,' adds a deeper cultural significance. The relocation of the lighthouse tower in 1918 is a unique detail to include in your writing about lighthouses. The shipwrecks around the island also contribute to its intriguing
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+Failed to parse JSON for response at index 943:
+{
+  "response": "Lihou Island is indeed a fascinating destination with a rich history and diverse wildlife. It's great to know that it's a conservation site for rare plants and birds, which could be a perfect place to find some birds for your mother. The size of the island is 36 acres, making it a charming and manageable spot to explore. The historical significance of Lihou as a seaweed collection site might not be your cup of tea, given your dislike for touching seaweed. Overall, it sounds like a place
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+Failed to parse JSON for response at index 946:
+{
+  "response": "As you are interested in historic figures and architecture, visiting Ljubljana Castle in Slovenia would be a great experience for you. The castle is known for its medieval fortress origins and the various buildings within the complex, including the Archers Tower and the Tower of Erasmus. You can also see the sculpture of the legendary dragon, symbol of Ljubljana, sculpted by Jože Bertoncelj. If you are looking for events, it's worth checking the castle's schedule for any upcoming activities
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
+Failed to parse JSON for response at index 1041:
+{
+  "response": "The Banni Grasslands Reserve is located in Gujarat, where you have a friend. Red rice, which you love for lunch, is the staple diet of people in that region. The Banni Grasslands is the last remaining habitat for the Cheetah, an animal you have never seen. The Prosopis juliflora is locally known as ganda bawal. The Banni Grasslands was declared a 'protected forest' in May 1955. The Indus river currently flows through Pakistan."
+
+Error: Expecting ',' delimiter: line 3 column 1 (char 449)
+
+Failed to parse JSON for response at index 1393:
+{
+  "response": "The Maijishan Grottoes in Tianshui, Gansu Province, northwest China, are known for their Buddhist sculptures, which you love. The construction of these caves began in the Later Qin era, a period you have studied about. The photographs of the grottoes were taken by Michael Sullivan, whom you admire, and Dominique Darbois. Maijishan translates to 'Wheatstack Mountain,' a place you are willing to visit. The mountain is formed of sand
+Error: Unterminated string starting at: line 2 column 15 (char 16)
+
